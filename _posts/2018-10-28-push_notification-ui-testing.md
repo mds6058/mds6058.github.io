@@ -8,10 +8,11 @@ tags:
   - UI Testing
   - Push Notifications
 ---
+![](/assets/images/2018-10-28-push_notification-ui-testing/push-testing-title.jpeg)
 
 If you’ve ever tried to test push notifications manually, you know they can be a pain. First you have to load your app onto a device (not the simulator), go through your app flow, make sure you have the app closed/open, etc. Wouldn’t it be nice to be able to automate this kind of testing?
 
-<iframe src="https://giphy.com/embed/a5viI92PAF89q" width="480" height="331" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/a5viI92PAF89q" width="480" height="331" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p/>
 
 With the changes to XCUITest in Xcode 9, it is now possible. We now have a way to interact with the springboard and any notifications that might come down.
 
@@ -253,7 +254,7 @@ You’ll notice in the test above we are utilizing both the mock server we creat
 
 ### And We’re Done!
 
-<iframe src="https://giphy.com/embed/a3ANjL4bRwsO4" width="480" height="274" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/a3ANjL4bRwsO4" width="480" height="274" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-alan-rickman-ugh-a3ANjL4bRwsO4">via GIPHY</a></p>
 
 Setting all that up is a bit of a chore, but I think it’s worth it. Testing push notifications is always a chore and I feel a lot of developers probably don’t do enough of it. With a testing framework like we went through here in place, you can have some more piece of mind when modifying your push notification logic in your app.
 
