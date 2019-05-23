@@ -33,9 +33,11 @@ So how can you mitigate this? There are a few ways:
 
 So that’s all well and good, but how do you test a process death? There are few different methods you can use to do this:.
 
-* In the Logcat menu of Android Studio, there is a button with a red circle and an “x” in the middle of it (it might be in the overflow menu). This button is called “terminate process”. Simply put your app in the background, then press this button. Behold! You have become process death.
+* In the Logcat menu of Android Studio, there is a button with a red circle and an “x” in the middle of it (it might be in the overflow menu). This button is called “terminate process”. Simply put your app in the background, then press this button. 
 
-![](/assets/images/2018-02-07-How-Not-To-Fear-Process-Death/death_1.jpeg)
+![](/assets/images/2018-02-07-How-Not-To-Fear-Process-Death/death_1.png)
+
+Behold! You have become process death.
 
 I’ve found this doesn’t always work however, as Android will fully terminate your app and re-start it from the launch activity.
 
