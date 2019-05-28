@@ -2,7 +2,7 @@
 title: "Breaking Down Android Flavor Dimensions"
 canonical_url: "https://medium.com/@mds6058/localization-in-ios-and-how-to-make-it-not-suck-3adcbc3ec08f"
 header:
-  image: /assets/images/2018-01-03-breaking-down-flavor-dimensions/flavors.jpeg
+  og_image: /assets/images/2018-01-03-breaking-down-flavor-dimensions/flavors.jpeg
 categories:
   - Android
 tags:

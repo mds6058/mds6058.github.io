@@ -1,6 +1,8 @@
 ---
 title: "Localization in iOS and How to Make It Not Suck"
 canonical_url: "https://medium.com/@mds6058/localization-in-ios-and-how-to-make-it-not-suck-3adcbc3ec08f"
+header:
+  og_image: /assets/images/2019-05-08-Localization-And-How-To-Make-It-Not-Suck/localization-title.jpeg
 categories:
   - iOS
 tags:

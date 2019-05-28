@@ -2,7 +2,7 @@
 title: "Push Notification UI Testing"
 canonical_url: "https://medium.com/@mds6058/push-notification-ui-testing-41bf66bed3fa"
 header:
-  image: /assets/images/2018-10-28-push_notification-ui-testing/push-testing-title.jpeg
+  og_image: /assets/images/2018-10-28-push_notification-ui-testing/push-testing-title.jpeg
 categories:
   - iOS
 tags:

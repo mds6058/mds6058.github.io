@@ -2,7 +2,7 @@
 title: "How Not to Fear Process Death"
 canonical_url: "https://medium.com/@mds6058/how-not-to-fear-process-death-303efd6d85c2"
 header:
-  image: /assets/images/2018-02-07-How-Not-To-Fear-Process-Death/death_title.jpeg
+  og_image: /assets/images/2018-02-07-How-Not-To-Fear-Process-Death/death_title.jpeg
 categories:
   - Android
 tags:
