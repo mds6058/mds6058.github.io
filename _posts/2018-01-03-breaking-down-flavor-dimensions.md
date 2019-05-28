@@ -1,5 +1,7 @@
 ---
 title: "Breaking Down Android Flavor Dimensions"
+header:
+  image: /assets/images/2018-01-03-breaking-down-flavor-dimensions/flavors.jpeg
 categories:
   - Android
 tags:
@@ -8,7 +10,7 @@ tags:
   - Flavor Dimensions
 ---
 
-![Image of Yaktocat](/assets/images/2018-01-03-breaking-down-flavor-dimensions/flavors.jpeg)
+![](/assets/images/2018-01-03-breaking-down-flavor-dimensions/flavors.jpeg)
 
 If you’ve recently updated to Android Studio 3.0, you may have received the following error message when making a gradle build:
 

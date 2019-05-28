@@ -65,6 +65,8 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mds6058"
 
+og_image: /assets/images/profile_pic.jpeg
+
 defaults:
   # _posts
   - scope:

@@ -1,5 +1,7 @@
 ---
 title: "How Not to Fear Process Death"
+header:
+  image: /assets/images/2018-02-07-How-Not-To-Fear-Process-Death/death_title.jpeg
 categories:
   - Android
 tags:
