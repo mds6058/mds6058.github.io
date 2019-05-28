@@ -1,5 +1,6 @@
 ---
 title: "Localization in iOS and How to Make It Not Suck"
+canonical_url: "https://medium.com/@mds6058/localization-in-ios-and-how-to-make-it-not-suck-3adcbc3ec08f"
 categories:
   - iOS
 tags:
@@ -10,7 +11,7 @@ tags:
 ![](/assets/images/2019-05-08-Localization-And-How-To-Make-It-Not-Suck/localization-title.jpeg)
 <!-- Image by schaeffler from Pixabay
  -->
- 
+
 Recently I had been reviewing my own notes on setting up localization in an iOS project in Xcode, and realized there were a few things I wasn’t 100% sure on. So I decided to do a little research and write this post for my own (and others) future reference on how to do this sometimes tedious task.
 
 If you’ve ever worked on iOS projects with multiple language support, you’ve probably noticed that localization has never seemed to be a top priority for Xcode. Unlike Android Studio, where localization is practically mandatory — you get stern warnings from the IDE if you don’t put your strings in the right file — Xcode doesn’t even create the infrastructure for it by default, it must be done manually.
