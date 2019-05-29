@@ -24,7 +24,7 @@ In this post, I’ll go over the steps to get started maintaining a localized pr
 
 Before you set up anything for localization, you should understand how a localized project works. Essentially, Xcode places anything that is language-dependent in specifically-named directories named after their respective language. So for for English specific files, you would have a directory called “/en.lproj”, for Japanese, it would be “/ja.lproj”, and so on.
 
-As for the contents of these directories, storyboards/XIBs have their own localized strings files, called “<name>.strings”, and the non-Interface Builder strings are usually in a file called “Localizable.strings”. You can also create different XIBs/storyboards for different languages (some languages might call for a totally different layout). Also, different languages may have [differing rules for plurality](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPInternational/StringsdictFileFormat/StringsdictFileFormat.html), which requires the a use of a specially formattted plist file.
+As for the contents of these directories, storyboards/XIBs have their own localized strings files, called “`<name>`.strings”, and the non-Interface Builder strings are usually in a file called “Localizable.strings”. You can also create different XIBs/storyboards for different languages (some languages might call for a totally different layout). Also, different languages may have [differing rules for plurality](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPInternational/StringsdictFileFormat/StringsdictFileFormat.html), which requires the a use of a specially formattted plist file.
 
 ## **“Base” Localization**
 
