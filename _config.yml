@@ -55,6 +55,9 @@ author:
   - label: "GitHub"
     icon: "fab fa-fw fa-github"
     url: "https://github.com/mds6058"
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/matt-stanford-736a864/"
 
 footer:
   links:
@@ -64,6 +67,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mds6058"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/matt-stanford-736a864/"
 
 og_image: /assets/images/profile_pic.jpeg
 
