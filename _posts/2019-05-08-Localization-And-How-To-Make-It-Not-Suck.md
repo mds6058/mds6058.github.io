@@ -10,9 +10,12 @@ tags:
   - Localization
 ---
 
-![](/assets/images/2019-05-08-Localization-And-How-To-Make-It-Not-Suck/localization-title.jpeg)
-<!-- Image by schaeffler from Pixabay
+<!-- ![](/assets/images/2019-05-08-Localization-And-How-To-Make-It-Not-Suck/localization-title.jpeg)
+ --><!-- Image by schaeffler from Pixabay
  -->
+ {% include captioned-image.html
+    src="2019-05-08-Localization-And-How-To-Make-It-Not-Suck/localization-title.jpeg" alt="alt text" caption="Image by  <a href=\"https://pixabay.com/users/schaeffler-395701\">schaeffler</a> from <a href=\"https://pixabay.com\">Pixabay</a>"
+%}
 
 Recently I had been reviewing my own notes on setting up localization in an iOS project in Xcode, and realized there were a few things I wasn’t 100% sure on. So I decided to do a little research and write this post for my own (and others) future reference on how to do this sometimes tedious task.
 
