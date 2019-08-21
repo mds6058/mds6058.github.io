@@ -72,6 +72,12 @@ footer:
 
 og_image: /assets/images/profile_pic.jpeg
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-146141618-1"
+    anonymize_ip: false # default
+
 defaults:
   # _posts
   - scope:
