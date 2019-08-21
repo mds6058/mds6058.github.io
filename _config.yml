@@ -46,7 +46,7 @@ plugins:
 author:
   name   : "Matt Stanford"
   avatar : "/assets/images/profile_pic.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Professional iOS and Android developer, here for your blogging pleasure."
   links:
   - label: "Twitter"
     icon: "fab fa-fw fa-twitter-square"
