@@ -263,6 +263,6 @@ Setting all that up is a bit of a chore, but I think it’s worth it. Testing pu
 
 Once you get your first test up and running, don’t forget to test app states like being suspended vs. the app being completely closed and reacting to different app states/views. But I’ll leave that up as an exercise for the reader.
 
-Again, feel free to check out the example project I set up here: [https://github.com/mds6058/PushNotificationUITesting](https://github.com/mds6058/PushNotificationUITesting). If you have any questions or want to discuss any further, feel free to talk to me on Twitter ([https://twitter.com/MattStanford3](https://twitter.com/MattStanford3)).
+Again, feel free to check out the example project I set up here: [https://github.com/mattstanford/PushNotificationUITesting](https://github.com/mattstanford/PushNotificationUITesting). If you have any questions or want to discuss any further, feel free to talk to me on Twitter ([https://twitter.com/MattStanford3](https://twitter.com/MattStanford3)).
 
 Thanks for reading!
