@@ -31,7 +31,7 @@ However, it turns out your app is already communicating the device ID already â€
 
 Turns out we can use this fact to our advantage. We can use a Swift micro-server HTTP library to run a mock server in our test runner app, and point the appâ€™s URL at our mock server.
 
-The following a step-by-step of how you can set up an extremely simple app using the above methodology. If you want to just look at the code, you can check it out here: [https://github.com/mds6058/PushNotificationUITesting](https://github.com/mds6058/PushNotificationUITesting) .
+The following a step-by-step of how you can set up an extremely simple app using the above methodology. If you want to just look at the code, you can check it out here: [https://github.com/mds6058/PushNotificationUITesting](https://github.com/mattstanford/PushNotificationUITesting) .
 
 ### **First Step: Configuring your UI Test Target**
 
